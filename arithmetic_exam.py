@@ -83,7 +83,6 @@ if level_input == '2':
             else:
                 print('Wrong!')
 
-
 print(f'Your mark is {count}/5. Would you like to save your result to the file? Enter yes or no.')
 
 positive = ["Yes", "YES", "yes", "y", "Y"]
